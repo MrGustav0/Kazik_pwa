@@ -1,0 +1,10 @@
+Keep this file and signing.keystore in a safe place. You'll need these files if you want to upload future versions of your PWA to the Google Play Store.
+
+Key store file: signing.keystore
+Key store password: gPK6MNvcY0RR
+Key alias: my-key-alias
+Key password: gPK6MNvcY0RR
+Signer's full name: Georgyi Kazanskiy
+Signer's organization: AladinLead
+Signer's organizational unit: Engineering
+Signer's country code: IT
